@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d9c65cc0a18716d8b9359004e67cfcbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/e1bf202c0edcda246370d337cd536547/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/e50dc037e7cc9310a1acfef33fd454df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/e0d2c1a45416ad19ccceff926c8d9f93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/69f86734989454b53e6a584001e4ad54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/3a2f07458c79616aff15aac32baac38b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:8:9-36
+activity#ca.yorku.eecs.mack.mainlistviewscroll.MainListViewActivity
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:11:9-14:20
+	android:label
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:12:13-86
+activity#ca.yorku.eecs.mack.mainlistviewscroll.ScrollSetup
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:16:13-77
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:19:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d9c65cc0a18716d8b9359004e67cfcbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d9c65cc0a18716d8b9359004e67cfcbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/e1bf202c0edcda246370d337cd536547/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/e1bf202c0edcda246370d337cd536547/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/e50dc037e7cc9310a1acfef33fd454df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/e50dc037e7cc9310a1acfef33fd454df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/e0d2c1a45416ad19ccceff926c8d9f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/e0d2c1a45416ad19ccceff926c8d9f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/69f86734989454b53e6a584001e4ad54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/69f86734989454b53e6a584001e4ad54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/3a2f07458c79616aff15aac32baac38b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/3a2f07458c79616aff15aac32baac38b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dibajafarnejad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d9400aec4e582a5a820c76b352813bb6/AndroidManifest.xml:26:13-58

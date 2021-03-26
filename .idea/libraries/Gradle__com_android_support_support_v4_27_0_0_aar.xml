@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4:27.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d5717f221cbc3a738a56acc54b0ea93f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d5717f221cbc3a738a56acc54b0ea93f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/449e69f60ddf5dd85e36d7cb367400dc/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/449e69f60ddf5dd85e36d7cb367400dc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/449e69f60ddf5dd85e36d7cb367400dc/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/1b89fcbd66ab9d10bda8bbe895ec3f6d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/1b89fcbd66ab9d10bda8bbe895ec3f6d/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/1b89fcbd66ab9d10bda8bbe895ec3f6d/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d9c65cc0a18716d8b9359004e67cfcbf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d9c65cc0a18716d8b9359004e67cfcbf/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/d9c65cc0a18716d8b9359004e67cfcbf/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/27.0.0/c441a907ea688486a25ec66c9319803408428414/support-v4-27.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

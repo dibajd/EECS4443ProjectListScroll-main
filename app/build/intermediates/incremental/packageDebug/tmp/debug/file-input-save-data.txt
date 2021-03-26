@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 25 21:48:07 EDT 2021
+0.baseType=DIRECTORY
+0.base=/Users/dibajafarnejad/Desktop/EECS4443ProjectListScroll-main/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

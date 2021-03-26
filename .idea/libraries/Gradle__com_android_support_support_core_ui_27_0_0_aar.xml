@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui:27.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/8d7fdc2b1cf94ad7576887ae1de8d659/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/8d7fdc2b1cf94ad7576887ae1de8d659/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/9a98724473263e1644511d57297b6316/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/9a98724473263e1644511d57297b6316/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/9a98724473263e1644511d57297b6316/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/ed51900f9723f61f23fc3437743861f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/ed51900f9723f61f23fc3437743861f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/ed51900f9723f61f23fc3437743861f8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/69f86734989454b53e6a584001e4ad54/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/69f86734989454b53e6a584001e4ad54/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/69f86734989454b53e6a584001e4ad54/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/27.0.0/a1e145eef031f88ff4e990d33a84253bafee6e6a/support-core-ui-27.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

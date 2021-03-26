@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-utils:27.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/1cd8f8f7dd00cccdcb6bd7cd40ef2eb1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/1cd8f8f7dd00cccdcb6bd7cd40ef2eb1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/f428dbd503e86ba9761e07535e8b1b42/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/f428dbd503e86ba9761e07535e8b1b42/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/f428dbd503e86ba9761e07535e8b1b42/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/316e3cc500ea93af4b880296a0a8a8f2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/316e3cc500ea93af4b880296a0a8a8f2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/316e3cc500ea93af4b880296a0a8a8f2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/e0d2c1a45416ad19ccceff926c8d9f93/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/e0d2c1a45416ad19ccceff926c8d9f93/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/e0d2c1a45416ad19ccceff926c8d9f93/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-utils/27.0.0/13e532bd029acebce5ddd7389d6c2c9426b96de9/support-core-utils-27.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

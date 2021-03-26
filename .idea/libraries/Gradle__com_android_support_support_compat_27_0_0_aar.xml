@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-compat:27.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/6b8f1bc9b18b57cab9cef69b46259d99/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/6b8f1bc9b18b57cab9cef69b46259d99/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/8524f812c9012afcfd71e6ef1611414e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/8524f812c9012afcfd71e6ef1611414e/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/8524f812c9012afcfd71e6ef1611414e/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/a34842e7c9f9fa15b8f2013322fbcd05/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/a34842e7c9f9fa15b8f2013322fbcd05/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/a34842e7c9f9fa15b8f2013322fbcd05/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/3a2f07458c79616aff15aac32baac38b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/3a2f07458c79616aff15aac32baac38b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/3a2f07458c79616aff15aac32baac38b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.0.0/f13d876bc36d7ea50abff587b70f41222c403ce1/support-compat-27.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

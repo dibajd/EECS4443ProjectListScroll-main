@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-media-compat:27.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/4e893d2129213dac98ab853a59250a92/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/4e893d2129213dac98ab853a59250a92/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/dbd1d207bb3acb3e62d10e532fa05380/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/dbd1d207bb3acb3e62d10e532fa05380/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/dbd1d207bb3acb3e62d10e532fa05380/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/f874280d1b6b7bc1b28300a9a2a3f6df/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/f874280d1b6b7bc1b28300a9a2a3f6df/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/f874280d1b6b7bc1b28300a9a2a3f6df/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/e1bf202c0edcda246370d337cd536547/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/e1bf202c0edcda246370d337cd536547/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/e1bf202c0edcda246370d337cd536547/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-media-compat/27.0.0/5d810384b51d814eb4a845cbf7dfa4549ecdfc6b/support-media-compat-27.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
